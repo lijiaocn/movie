@@ -1,0 +1,32 @@
+电影:
+  name: 电影
+科幻:
+  name: 科幻
+恐怖:
+  name: 恐怖
+喜剧:
+  name: 喜剧
+动作:
+  name: 动作
+犯罪:
+  name: 犯罪
+剧情:
+  name: 剧情
+悬疑:
+  name: 悬疑
+爱情:
+  name: 爱情
+灾难:
+  name: 灾难
+电视剧:
+  name: 电视剧
+动漫:
+  name: 动漫
+综艺:
+  name: 综艺
+纪录片:
+  name: 纪录片
+战争:
+  name: 战争
+其他:
+  name: 其他
