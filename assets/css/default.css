@@ -145,7 +145,7 @@ body {
     padding-left:3px;
 }
 
-.main .main-body  .content .postitem .postdesc {
+.main .main-body .content .postitem .postdesc {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -162,16 +162,21 @@ body {
     max-width: 250px;
 }
 
-.main .main-body  .content .postitem .postdesc p {
+.main .main-body .content .postitem .postdesc p {
     padding-top:0;
     /*padding-left:1px;*/
     color: #888;
 }
 
-.main .main-body  .content  .postitem .postdesc img {
+.main .main-body .content  .postitem .postdesc img {
     width:100%;
 }
 
+.main .main-body .content .prevnext{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
 
 .main .main-body .rsidebar{
