@@ -27,7 +27,7 @@ permalink: pretty
 pagination:
   enabled: true
   per_page: 20
-  permalink: '/:num/'
+  permalink: '/p/:num/'
   title: ':title | :num of :max'
   limit: 0
 #  sort_field: 'createdate'
